@@ -1,6 +1,6 @@
 # 세미프로젝트 : 앱광고 유저 로그데이터 실시간으로 처리하기
 
-> 시나리오
+## 1. 시나리오
 
 ### 1.1 요구사항
 
@@ -32,7 +32,7 @@
 3. 실시간 정상 click event는 adId기준으로 count한 결과를 확인할 수 있어야한다.
 
 
-> 아키텍처
+## 2. 아키텍처
 
 ![Untitled](https://user-images.githubusercontent.com/56438131/230126917-3a211c9f-b99c-4fe9-bf21-f886eb368370.png)
 
