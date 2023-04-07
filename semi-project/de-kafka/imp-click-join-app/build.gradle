@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+dependencies {
+    implementation(project(":protocol"))
+    implementation 'com.github.ben-manes.caffeine:caffeine:2.9.3'
+
+}
+
+application {
+    mainClassName 'de.kafka.ad.generator.ImpClickJoinApp'
+}
+

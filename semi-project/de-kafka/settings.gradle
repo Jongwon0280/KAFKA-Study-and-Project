@@ -1,0 +1,14 @@
+rootProject.name = 'de-kafka'
+
+include("basic")
+
+include("protocol")
+
+include("imp-click-generator-app")
+
+include("imp-click-join-app")
+include 'basic'
+include 'protocol'
+include 'imp-click-generator-app'
+include 'imp-click-join-app'
+

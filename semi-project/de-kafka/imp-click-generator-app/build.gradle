@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'de-kafka'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+    implementation(project(":protocol"))
+}
+
+application {
+    mainClassName 'de.kafka.ad.generator.ImpClickGeneratorApp'
+}
+
+test {
+    useJUnitPlatform()
+}

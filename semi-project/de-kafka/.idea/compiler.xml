@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.26/8f8cf0372abf564913e9796623aac4c8ea44025a/lombok-1.18.26.jar" />
+        </processorPath>
+        <module name="de-kafka.main" />
+        <module name="de-kafka.imp-click-join-app.test" />
+        <module name="de-kafka.protocol.test" />
+        <module name="de-kafka.basic.main" />
+        <module name="de-kafka.protocol.main" />
+        <module name="de-kafka.test" />
+        <module name="de-kafka.imp-click-join-app.main" />
+        <module name="de-kafka.basic.test" />
+        <module name="de-kafka.imp-click-generator-app.test" />
+        <module name="de-kafka.imp-click-generator-app.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8" />
+  </component>
+</project>
