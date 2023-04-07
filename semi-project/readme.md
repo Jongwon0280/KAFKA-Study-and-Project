@@ -36,6 +36,8 @@
 
 ![Untitled](https://user-images.githubusercontent.com/56438131/230126917-3a211c9f-b99c-4fe9-bf21-f886eb368370.png)
 
+[블로그로 바로가기](https://jongwon0280.github.io/project/KAFKA-setup-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(1)/)
+
 
 
 
